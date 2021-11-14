@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+nav .logo {
+  background-color: #334E9E;
+}
+
+nav .logo img {
+  position: absolute;
+  left: 200px;
+}
+
+nav .links {
+  padding: 0px;
+}
+
+nav .links .bottomlink {
+  background-color: #00ACEC;
+}
+
+nav .links .bottomlink ul li {
+  margin-left: 44px;
+  font-weight: bold;
+}
+
+nav .links .bottomlink a {
+  color: white;
+  text-decoration: none;
+}
+
+nav .links .bottomlink .tel {
+  margin-left: 89px;
+}
+
+nav .links .bottomlink .tel span {
+  color: white;
+}
+
+nav .toplink a {
+  color: #6A6A6A;
+  text-decoration: none;
+}
+
+nav .toplink ul li {
+  padding-left: 42px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=style.css.map */

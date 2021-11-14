@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    .logo{
+        background-color: #334E9E;
+        img{
+            position: absolute;
+            left: 200px;
+        }
+    }
+    .links{
+        padding: 0px;
+        .bottomlink{
+            background-color:#00ACEC;
+            ul{
+
+                li{
+                    margin-left: 44px;
+                    font-weight: bold;
+                }
+            }
+            a{
+                color: white;
+                text-decoration: none;
+            }
+            .tel{
+               margin-left: 89px;
+               span{
+                   color: white;
+               }
+            
+            }
+        }
+    }
+    .toplink{
+         a{
+             color:#6A6A6A;
+             text-decoration: none;
+         }
+         ul{
+             li{
+                 padding-left: 42px;
+                 font-weight: bold;
+             }
+         }
+    }
+
+}
